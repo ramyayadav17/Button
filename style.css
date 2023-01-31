@@ -1,0 +1,12 @@
+.center{
+    margin-top: 50vh;
+    text-align: center;
+    
+}
+button{
+    color: black;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: blue;
+
+}
